@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_12_21_221026) do
+ActiveRecord::Schema.define(version: 2020_12_21_222840) do
 
   create_table "articles", force: :cascade do |t|
     t.string "title", null: false
@@ -27,7 +27,18 @@ ActiveRecord::Schema.define(version: 2020_12_21_221026) do
     t.datetime "updated_at", precision: 6, null: false
     t.integer "article_id", null: false
     t.text "body"
+    t.integer "user_id", null: false
     t.index ["article_id"], name: "index_comments_on_article_id"
+  end
+
+  create_table "users", force: :cascade do |t|
+    t.string "username", null: false
+    t.string "password_digest", null: false
+    t.string "session_token", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["session_token"], name: "index_users_on_session_token", unique: true
+    t.index ["username"], name: "index_users_on_username", unique: true
   end
 
 end
