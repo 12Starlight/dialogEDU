@@ -1,5 +1,4 @@
-# README
-
+# <kbd>**Running the Application**</kbd>
 &nbsp;
 
 # **Instructions**
