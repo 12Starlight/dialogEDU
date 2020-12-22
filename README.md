@@ -31,5 +31,12 @@ Download Postman from <kbd>postman.com</kbd>
 
 &nbsp;
 
-# Webpack Compatible 
+# **Webpack Compatible** 
 
+![alt text](app/assets/images/Screen%20Shot%202020-12-22%20at%205.10.36%20PM.jpg "Webpack file")
+
+<br>
+
+# **<kbd>React</kbd>** **<kbd>Redux</kbd>** **<kbd>Babel</kbd>** <strong>Dependencies</strong>
+
+![alt text](./app/assets/images/Screen%20Shot%202020-12-22%20at%205.16.50%20PM.jpg "Npm Dependencies")
