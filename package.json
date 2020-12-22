@@ -2,10 +2,37 @@
   "name": "dialog-edu",
   "private": true,
   "dependencies": {
-    "@rails/ujs": "^6.0.0",
-    "turbolinks": "^5.2.0",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
-    "@rails/actioncable": "^6.0.0"
+    "@rails/ujs": "^6.0.0",
+    "babel-loader": "^8.2.2",
+    "react": "^17.0.1",
+    "redux": "^4.0.5",
+    "turbolinks": "^5.2.0"
   },
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "description": "&nbsp; More to come shortly 👨‍💻",
+  "main": "webpack.config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12Starlight/dialogEDU.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/12Starlight/dialogEDU/issues"
+  },
+  "homepage": "https://github.com/12Starlight/dialogEDU#readme"
 }
