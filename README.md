@@ -1,4 +1,4 @@
-# <kbd>**Running the Application**</kbd>
+# <strong>Running the Application</strong>
 &nbsp;
 
 # **Instructions**
