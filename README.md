@@ -37,6 +37,6 @@ Download Postman from <kbd>postman.com</kbd>
 
 <br>
 
-<h1><strong><kbd>React</kbd> &nbsp; <kbd>Redux</kbd> &nbsp; <kbd>Babel</kbd> &nbsp; Dependencies </strong></h1>
+<h1><strong><span style="font-size:2rem; padding:3.5px; color:black; background:darkgrey; border-radius:3px">React</span> &nbsp; <span style="font-size:2rem; padding:3.5px; color:black; background:darkgrey; border-radius:3px">Redux</span> &nbsp; <span style="font-size:2rem; padding:3.5px; color:black; background:darkgrey; border-radius:3px">Babel</span> &nbsp; Dependencies </strong></h1>
 
 ![alt text](./app/assets/images/Screen%20Shot%202020-12-22%20at%205.16.50%20PM.jpg "Npm Dependencies")
