@@ -1,5 +1,5 @@
 class Api::CommentsController < ApplicationController
-  before_action :require_logged_in, only: [:create, :destroy] 
+  before_action :require_logged_in, only: [:create, :filter, :destroy] 
 
   def index
     case
@@ -21,6 +21,15 @@ class Api::CommentsController < ApplicationController
       render :show
     else
       render json: @comment.errors.full_messages, status: :unprocssable_entity
+    end
+  end
+
+  def filter
+    if params[:filter].blank?
+      render json: ['Empty field!']
+    else
+      @parametr = params[:filter].downcase
+      @results = Comment.all.where('lower(name) = ?', params[:article_id])
     end
   end
 
