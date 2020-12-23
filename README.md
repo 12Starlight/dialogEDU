@@ -18,7 +18,7 @@ More to come shortly 👨‍💻
 
 Download the Postman desktop from <kbd>postman.com</kbd>
 <br>
-Or go to localhost:3000/api/user/5
+Or go to localhost:3000/api/users/5
 
 &nbsp;
 
