@@ -97,7 +97,7 @@ Type in the following:
 &nbsp;
 
 # **Routes**
-![alt text](./app/assets/images/Screen%20Shot%202020-12-22%20at%206.47.48%20PM.jpg "Routes")
+![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%204.09.29%20AM.jpg "Routes")
 
 
 # **Webpack Compatible** 
