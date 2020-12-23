@@ -19,9 +19,13 @@ Download Postman from <kbd>postman.com</kbd>
 # **Controllers**
 
 
-### **Users**
+## **Users**
 
 ![alt text](./app/assets/images/Screen%20Shot%202020-12-22%20at%207.10.33%20PM.jpg "Users Controller")
+
+## **Tested Users & Sessions Controller**
+
+![alt text](./app/assets/images/Screen%20Shot%202020-12-22%20at%207.29.15%20PM.jpg "Created User")
 
 &nbsp;
 
