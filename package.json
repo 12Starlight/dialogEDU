@@ -8,6 +8,7 @@
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
+    "@rails/webpacker": "5.2.1",
     "babel-loader": "^8.2.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -37,5 +38,8 @@
   "bugs": {
     "url": "https://github.com/12Starlight/dialogEDU/issues"
   },
-  "homepage": "https://github.com/12Starlight/dialogEDU#readme"
+  "homepage": "https://github.com/12Starlight/dialogEDU#readme",
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.0"
+  }
 }

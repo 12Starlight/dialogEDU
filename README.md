@@ -49,8 +49,15 @@ Download Postman from <kbd>postman.com</kbd>
 
 # **Views**
 
-## **
+## **Static Pages**
 
+![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%2012.22.20%20AM.jpg "Static Pages")
+
+## **Users**
+
+## **Articles**
+
+## **Comments**
 
 &nbsp;
 
