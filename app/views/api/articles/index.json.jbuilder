@@ -8,9 +8,9 @@
   json.users do
     json.set! article.author.id do 
       if @user
-        json.articleIds @article.ids
+        json.articleIds @articles.ids
       end
-      json.partial! 'api/users/user', user: article.author
+      json.partial! '/api/users/user', user: article.author
     end
   end
 end

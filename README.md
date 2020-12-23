@@ -32,6 +32,10 @@ Type in the following:
 
 ![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%203.50.48%20AM.jpg "Articles")
 
+![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%204.41.34%20AM.jpg "Articles/:id")
+
+&nbsp;
+
 ![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%203.53.26%20AM.jpg "Comments")
 
 
