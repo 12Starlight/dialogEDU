@@ -21,6 +21,8 @@ Download Postman from <kbd>postman.com</kbd>
 
 ### **Users**
 
+![alt text](./app/assets/images/Screen%20Shot%202020-12-22%20at%207.10.33%20PM.jpg "Users Controller")
+
 &nbsp;
 
 ### **Sessions**
