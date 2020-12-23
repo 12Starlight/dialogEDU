@@ -43,7 +43,7 @@ Download Postman from <kbd>postman.com</kbd>
 
 ## **Comments**
 
-![alt text](./app/assets/images/Screen%20Shot%202020-12-22%20at%2011.29.25%20PM.jpg "Comments Controller")
+![alt text](./app/assets/images/Screen%20Shot%202020-12-22%20at%2011.41.44%20PM.jpg "Comments Controller")
 
 &nbsp;
 
