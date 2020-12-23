@@ -4,8 +4,17 @@ Rails.application.routes.draw do
 
     resource :session, only: [:create, :destroy]
     
-    resources :articles
-    resources :comments
+    resources :articles do 
+      member do
+        get :search, to: "articles#search", as: "search"
+      end
+    end
+
+    resources :comments do 
+      member do
+        get :filter, to: "comments#filter", as: "filter"
+      end
+    end
   end
 
   root "static_pages#root"

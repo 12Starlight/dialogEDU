@@ -36,7 +36,7 @@ Download Postman from <kbd>postman.com</kbd>
 &nbsp;
 
 # **Routes**
-![alt text](./app/assets/images/Screen%20Shot%202020-12-22%20at%206.35.43%20PM.jpg "Routes")
+![alt text](./app/assets/images/Screen%20Shot%202020-12-22%20at%206.47.48%20PM.jpg "Routes")
 
 
 # **Webpack Compatible** 
