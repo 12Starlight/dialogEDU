@@ -1,5 +1,5 @@
 class Api::CommentsController < ApplicationController
-  before_action :require_logged_in, only: [:create, :filter, :destroy] 
+  # before_action :require_logged_in, only: [:create, :filter, :destroy] 
 
   def index
     case
@@ -28,7 +28,7 @@ class Api::CommentsController < ApplicationController
     if params[:filter].blank?
       render json: ['Empty field!']
     else
-      @parametr = params[:filter].downcase
+      @parameter = params[:filter].downcase
       @results = Comment.all.where('lower(name) = ?', params[:article_id])
     end
   end

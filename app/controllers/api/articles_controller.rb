@@ -1,5 +1,5 @@
 class Api::ArticlesController < ApplicationController
-  before_action :require_logged_in, only: [:create, :destroy, :search]
+  # before_action :require_logged_in, only: [:create, :destroy, :search]
 
   def index
     if params[:user_id]
