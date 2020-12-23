@@ -84,7 +84,7 @@ Type in the following:
 
 ## **Users**
 
-![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%2012.46.40%20AM.jpg "Users")
+![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%204.00.31%20AM.jpg "Users")
 
 ## **Articles**
 
