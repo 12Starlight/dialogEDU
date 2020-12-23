@@ -100,7 +100,7 @@ Type in the following:
 
 ## **Articles**
 
-![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%2012.50.21%20AM.jpg "Articles")
+![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%204.47.38%20AM.jpg "Articles")
 
 ## **Comments**
 
