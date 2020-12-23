@@ -29,15 +29,17 @@ Download Postman from <kbd>postman.com</kbd>
 
 &nbsp;
 
-### **Sessions**
+## **Sessions**
+
+![alt text](./app/assets/images/Screen%20Shot%202020-12-22%20at%207.38.54%20PM.jpg "Sessions Controller")
 
 &nbsp;
 
-### **Articles**
+## **Articles**
 
 &nbsp;
 
-### **Comments**
+## **Comments**
 
 &nbsp;
 
