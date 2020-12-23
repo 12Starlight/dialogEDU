@@ -1,10 +1,39 @@
 # <strong>Running the Application</strong>
 &nbsp;
+
+Download Node.js at <kbd>https://nodejs.org/en/</kbd>
+<br>
+Run npm install
+<br>
+Run bundle install
+<br>
+Run rails s
+
+
+&nbsp;
+
 More to come shortly 👨‍💻
 
 # **Instructions**
 
-Download Postman from <kbd>postman.com</kbd>
+Download the Postman desktop from <kbd>postman.com</kbd>
+<br>
+Or go to localhost:3000/api/user/5
+
+&nbsp;
+
+Type in the following:
+
+![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%203.47.56%20AM.jpg "CEO, Tom Hubor")
+
+![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%203.49.02%20AM.jpg "Chairwoman, Debbie Schwarzberg")
+
+&nbsp;
+
+![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%203.50.48%20AM.jpg "Articles")
+
+![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%203.53.26%20AM.jpg "Comments")
+
 
 
 &nbsp;
