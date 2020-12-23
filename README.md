@@ -68,11 +68,19 @@ Type in the following:
 
 ![alt text](./app/assets/images/Screen%20Shot%202020-12-22%20at%2011.12.17%20PM.jpg "Articles Controller")
 
+## **Tested Articles Controller**
+
+![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%204.23.37%20AM.jpg "Created Articles")
+
 &nbsp;
 
 ## **Comments**
 
 ![alt text](./app/assets/images/Screen%20Shot%202020-12-22%20at%2011.41.44%20PM.jpg "Comments Controller")
+
+## **Tested Comments Controller**
+
+![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%204.27.16%20AM.jpg "Created Comments")
 
 &nbsp;
 
