@@ -63,6 +63,8 @@ Download Postman from <kbd>postman.com</kbd>
 
 ## **Comments**
 
+![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%2012.53.43%20AM.jpg "Comments")
+
 &nbsp;
 
 # **Routes**
