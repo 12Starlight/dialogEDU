@@ -55,7 +55,11 @@ Download Postman from <kbd>postman.com</kbd>
 
 ## **Users**
 
+![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%2012.46.40%20AM.jpg "Users")
+
 ## **Articles**
+
+![alt text](./app/assets/images/Screen%20Shot%202020-12-23%20at%2012.50.21%20AM.jpg "Articles")
 
 ## **Comments**
 
