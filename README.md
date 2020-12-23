@@ -23,6 +23,10 @@ Download Postman from <kbd>postman.com</kbd>
 
 &nbsp;
 
+### **Sessions**
+
+&nbsp;
+
 ### **Articles**
 
 &nbsp;
@@ -31,9 +35,13 @@ Download Postman from <kbd>postman.com</kbd>
 
 &nbsp;
 
+# **Routes**
+![alt text](./app/assets/images/Screen%20Shot%202020-12-22%20at%206.35.43%20PM.jpg "Routes")
+
+
 # **Webpack Compatible** 
 
-![alt text](app/assets/images/Screen%20Shot%202020-12-22%20at%205.10.36%20PM.jpg "Webpack file")
+![alt text](./app/assets/images/Screen%20Shot%202020-12-22%20at%205.10.36%20PM.jpg "Webpack file")
 
 <br>
 
