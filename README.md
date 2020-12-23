@@ -37,6 +37,8 @@ Download Postman from <kbd>postman.com</kbd>
 
 ## **Articles**
 
+![alt text](./app/assets/images/Screen%20Shot%202020-12-22%20at%2011.12.17%20PM.jpg "Articles Controller")
+
 &nbsp;
 
 ## **Comments**

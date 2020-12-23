@@ -10,8 +10,11 @@
     "@rails/ujs": "^6.0.0",
     "babel-loader": "^8.2.2",
     "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "redux": "^4.0.5",
-    "turbolinks": "^5.2.0"
+    "turbolinks": "^5.2.0",
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.2.0"
   },
   "version": "0.1.0",
   "description": "&nbsp; More to come shortly 👨‍💻",
@@ -36,9 +39,3 @@
   },
   "homepage": "https://github.com/12Starlight/dialogEDU#readme"
 }
-
-
-
-
-
-
