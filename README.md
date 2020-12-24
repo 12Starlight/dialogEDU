@@ -19,6 +19,8 @@ Run <kbd>npm install</kbd>
 <br>
 Run <kbd>bundle install</kbd>
 <br>
+Run <kbd>bundle exec rails db:migrate</kbd>
+<br>
 Run <kbd>rails s</kbd>
 
 
