@@ -1,6 +1,8 @@
 # <strong>Running the Application</strong>
 &nbsp;
 
+Clone the repo
+<br>
 Download Node.js at <kbd>https://nodejs.org/en/</kbd>
 <br>
 Install Homebrew at <kbd>https://docs.brew.sh/Installation</kbd>
