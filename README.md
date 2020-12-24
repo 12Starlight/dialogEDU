@@ -13,11 +13,13 @@ Install Rails at <kbd>gem install rails -v 6.1.0</kbd>
 <br>
 Install Postgresql <kbd>brew install postgresql</kbd>
 <br>
-Run npm install
+Install Webpacker <kbd>rails webpacker:install</kbd>
 <br>
-Run bundle install
+Run <kbd>npm install</kbd>
 <br>
-Run rails s
+Run <kbd>bundle install</kbd>
+<br>
+Run <kbd>rails s</kbd>
 
 
 &nbsp;
