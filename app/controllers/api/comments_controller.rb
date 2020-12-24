@@ -29,7 +29,8 @@ class Api::CommentsController < ApplicationController
       render json: ['Empty field!']
     else
       @parameter = params[:filter].downcase
-      @results = Comment.all.where('lower(name) = ?', params[:article_id])
+      @results = Comment.all.where(article_id: params[:article_id])
+      render json: @results 
     end
   end
 

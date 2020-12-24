@@ -12,6 +12,8 @@ Run rails s
 
 &nbsp;
 
+Note: I made it an API route to demonstrate that a React Redux store could be attached to the front end.
+<br>
 More to come shortly 👨‍💻
 
 # **Instructions**
