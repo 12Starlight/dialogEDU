@@ -3,6 +3,14 @@
 
 Download Node.js at <kbd>https://nodejs.org/en/</kbd>
 <br>
+Install Homebrew at <kbd>https://docs.brew.sh/Installation</kbd>
+<br>
+Install Ruby at <kbd>brew install ruby</kbd>
+<br>
+Install Rails at <kbd>gem install rails -v 6.1.0</kbd>
+<br>
+Install Postgresql <kbd>brew install postgresql</kbd>
+<br>
 Run npm install
 <br>
 Run bundle install
